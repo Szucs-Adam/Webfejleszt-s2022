@@ -1,1 +1,1 @@
-# Webfejleszt-s2022
+# Webfejlesztés2022
